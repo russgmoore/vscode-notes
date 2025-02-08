@@ -1,0 +1,28 @@
+{
+    "python.defaultInterpreterPath": "/home/ubuntu/.pyenv/versions/3.12.9/bin/python",
+    "workbench.settings.applyToAllProfiles": [
+        "python.defaultInterpreterPath",
+        "esbonio.sphinx.builderName",
+        "esbonio.server.pythonPath",
+        "esbonio.server.updateFrequency",
+        "restructuredtext.linter.doc8.executablePath",
+        "restructuredtext.linter.rstcheck.executablePath"
+    ],
+    "esbonio.sphinx.confDir": "${workspaceFolder}/docs",
+    "esbonio.sphinx.buildDir" : "${workspaceFolder}/docs/_build/html",
+    "esbonio.sphinx.srcDir"   : "${workspaceFolder}/docs",
+    "esbonio.logging.level": "debug",
+    "esbonio.sphinx.pythonCommand": ["/home/ubuntu/.pyenv/versions/3.12.9/bin/python"],
+    "esbonio.server.pythonPath": "/home/ubuntu/.pyenv/versions/3.12.9/bin/python",
+    "window.newWindowProfile": "Default",
+    "files.associations": {
+        "*.rst": "restructuredtext"
+    },
+    "[restructuredtext]": {},
+    "liveServer.settings.donotShowInfoMsg": true,
+    "restructuredtext.linter.doc8.executablePath": "/home/ubuntu/.pyenv/versions/3.12.9/bin/doc8",
+    "restructuredtext.linter.rstcheck.executablePath": "/home/ubuntu/.pyenv/versions/3.12.9/bin/rstcheck",
+    "git.defaultCloneDirectory": "/home/ubuntu/Documents",
+    "extensions.ignoreRecommendations": true
+
+}
