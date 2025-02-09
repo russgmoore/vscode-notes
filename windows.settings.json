@@ -1,0 +1,26 @@
+{
+    "python.defaultInterpreterPath": "C:/Users/rmoore/AppData/Local/Microsoft/WindowsApps/python.exe",
+    "workbench.settings.applyToAllProfiles": [
+        "python.defaultInterpreterPath",
+        "esbonio.sphinx.builderName",
+        "esbonio.server.pythonPath",
+        "esbonio.server.updateFrequency",
+        "restructuredtext.linter.doc8.executablePath",
+        "restructuredtext.linter.rstcheck.executablePath"
+    ],
+    "esbonio.sphinx.confDir": "${workspaceFolder}/docs",
+    "esbonio.sphinx.buildDir" : "${workspaceFolder}/docs/_build/html",
+    "esbonio.sphinx.srcDir"   : "${workspaceFolder}/docs",
+    "esbonio.logging.level": "debug",
+    "esbonio.sphinx.pythonCommand": ["C:/Users/rmoore/AppData/Local/Microsoft/WindowsApps/python.exe"],
+    "esbonio.server.pythonPath": "C:/Users/rmoore/AppData/Local/Microsoft/WindowsApps/python.exe",
+    "window.newWindowProfile": "Default",
+    "files.associations": {
+        "*.rst": "restructuredtext"
+    },
+    "[restructuredtext]": {},
+    "liveServer.settings.donotShowInfoMsg": true,
+    "git.defaultCloneDirectory": "C:/Users/rmoore/Documents",
+    "extensions.ignoreRecommendations": true
+
+}
